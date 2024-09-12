@@ -1,0 +1,5 @@
+---
+title: "Welcome to my Website"
+---
+
+Hi, my name is Bruce Zhang, I am a fourth year undergraduate student in STA304 at the University of Toronto. 
