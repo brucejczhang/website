@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-This is a website created in STA304
